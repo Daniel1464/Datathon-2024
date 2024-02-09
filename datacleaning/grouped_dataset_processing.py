@@ -20,52 +20,14 @@ for year in range(2017,2022):
 
 
     for i in range(0,3):
-        concentrators = year_concentrator_data.iloc[i].at["NumConcentrators"]
+        concentrators: float = year_concentrator_data.iloc[i].at["NumConcentrators"]
         name: str = year_concentrator_data.iloc[i].at["CTEcode"]
 
         num_employed_str = year_employment_data.at[name]
+        print(num_employed_str)
         if type(num_employed_str) is str:
             num_employed_str = num_employed_str.replace(",", "")
         num_employed = float(num_employed_str)
 
         percent_concentrators_employed = 100.0 * num_employed / concentrators
         print("Industry " + name + " has " + str(percent_concentrators_employed) + " percent of concentrators employed.")
-    
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-# 2017: AGNR
-
-
-
-# means
-#2017: 8215
-#2019: 3739.133333333333
-#2022: 7291.6875
-
-#medians
-#2017: 6487
-#2019: 3176.0
-#2022: 5346.5
-
-
-
-
-
-
-
-
-    
-        
-        

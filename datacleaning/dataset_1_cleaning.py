@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import scipy
 
 def transform_float_col(input: pd.Series) -> pd.Series:
     return input.replace(',', '', regex=True).astype('float')

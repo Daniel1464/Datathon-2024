@@ -1,0 +1,16 @@
+Area Name,Industry Code,Industry Group,Industry Title,CTE,2021,2030,Change,Agency,2017,2018,2019,2020,2021,2022
+North Carolina,710000,Sector,"Arts, Entertainment, and Recreation",AAVC,"66,007","82,691",16684,622,6487,2560,3176,22685,9923,10809
+North Carolina,110000,Sector,"Agriculture, Forestry, Fishing and Hunting",AGNR,"66,711","64,504",-2207,549,20380,9156,10433,31148,12650,14184
+North Carolina,230000,Sector,Construction,ARCH,"301,920","326,209",24289,494,11167,4693,5301,25541,10333,10483
+North Carolina,560000,Sector,Administrative and Support and Waste Management and Remediation Services,BMA,"387,985","426,705",38720,787,10469,3434,4169,1663,2922,5688
+North Carolina,610000,Sector,Educational Services,EDUC,"368,400","393,280",24880,441,18,14,113,613,253,254
+North Carolina,520000,Sector,Finance and Insurance,FINA,"206,745","225,056",18311,791,1826,570,577,1911,892,1238
+North Carolina,620000,Sector,Health Care and Social Assistance,HLTH,"600,092","676,100",76008,457,17184,7263,8789,64229,19971,18108
+North Carolina,720000,Sector,Accommodation and Food Services,HOSP,"395,334","462,052",66718,731,16070,5897,7734,23384,8770,10048
+North Carolina,810000,Sector,Other Services (except Government),HUMA,"181,047","196,118",15071,614,1924,1097,1208,40920,18149,17077
+North Carolina,510000,Sector,Information,INFO,"77,370","84,904",7534,995,9692,3906,4656,8604,3511,5005
+North Carolina,900000,Sector,Government,LAW,"295,583","312,582",16999,443,3345,1130,1189,7095,3950,4311
+North Carolina,310000,Sector,Manufacturing,MANU,"464,071","486,317",22246,458,4615,1750,1954,8251,3422,4678
+North Carolina,420000,Sector,Wholesale Trade,MRKT,"700,810","724,635",23825,709,5412,1246,1673,2993,2271,3011
+North Carolina,540000,Sector,"Professional, Scientific, and Technical Services",STEM,"289,885","343,361",53476,759,10898,2602,3345,20607,7926,8386
+North Carolina,480000,Sector,Transportation and Warehousing,TRAN,"199,142","231,060",31918,439,3751,1534,1770,6090,2867,3385
